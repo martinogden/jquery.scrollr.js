@@ -28,7 +28,8 @@ landscape mode in an iPad, and hasn't been tested on iPhone yet.
 
 ### Examples
 
-See the demo folder
+Working demo available [here](http://labs.cahoona.co.uk/scrollr/). Please
+note it doesn't do much on device without touch events!
 
 
 ### Credits

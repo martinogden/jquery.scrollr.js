@@ -1,12 +1,13 @@
-scrollr: a lighweight jQuery iPad style image gallery scroller.
-===============================================================
+jQuery.scrollr.js
+=================
+A lighweight jQuery iPad style image gallery scroller
+-----------------------------------------------------
 
 Uses touch events to emulate native image side-scrolling in the browser on
 touch enabled devices.
 
 
-Example Usage
--------------
+### Example Usage
 
 1. Make sure jQuery is included in the page
 
@@ -23,7 +24,6 @@ Example Usage
 
     var slider = new $.scrollr($('#slider'));
 
-Examples
---------
+### Examples
 
 See the demo folder

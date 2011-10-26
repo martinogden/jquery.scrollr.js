@@ -1,5 +1,5 @@
 .DS_Store
 *~
-images/960
-images/*.jpg
+demo/images/960
+demo/images/*.jpg
 

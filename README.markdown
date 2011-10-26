@@ -33,7 +33,7 @@ See the demo folder
 
 ### Credits
 
-All photos taken and belong to [@jag4091](http://twitter.com/jag4091)
+All photos taken and belong to [@jag4091](http://twitter.com/jag4091).
 
 
 ### Licence

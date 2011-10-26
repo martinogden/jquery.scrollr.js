@@ -29,3 +29,8 @@ landscape mode in an iPad, and hasn't been tested on iPhone yet.
 ### Examples
 
 See the demo folder
+
+
+### Licence
+
+Licensed for use under [Attribution 3.0 unported](http://creativecommons.org/licenses/by/3.0/).

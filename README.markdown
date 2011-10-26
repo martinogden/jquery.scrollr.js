@@ -4,8 +4,8 @@ A lighweight jQuery iPad style image gallery scroller
 -----------------------------------------------------
 
 Uses touch events to emulate native image side-scrolling in the browser on
-touch enabled devices.
-
+touch enabled devices. Please note, this is very much **BETA**, it works in
+landscape mode in an iPad, and hasn't been tested on iPhone yet.
 
 ### Example Usage
 
@@ -23,6 +23,7 @@ touch enabled devices.
 3. Initiate the slider
 
     var slider = new $.scrollr($('#slider'));
+
 
 ### Examples
 

@@ -31,6 +31,11 @@ landscape mode in an iPad, and hasn't been tested on iPhone yet.
 See the demo folder
 
 
+### Credits
+
+All photos taken and belong to [@jag4091](http://twitter.com/jag4091)
+
+
 ### Licence
 
 Licensed for use under [Attribution 3.0 unported](http://creativecommons.org/licenses/by/3.0/).

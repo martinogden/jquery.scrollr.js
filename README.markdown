@@ -20,9 +20,9 @@ landscape mode in an iPad, and hasn't been tested on iPhone yet.
             <li><img src="images/1024/img_4.jpg"></li>
         </ul>
 
-3. Initiate the slider
+3. Initiate the slider : `var slider = new $.scrollr($('#slider'));`
 
-    var slider = new $.scrollr($('#slider'));
+4. Get your sliding finger out!
 
 
 ### Examples
